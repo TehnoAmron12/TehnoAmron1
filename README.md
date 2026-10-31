@@ -1,1 +1,2 @@
-# TehnoAmron1
+## Мои навыки:
+<img src=" width="10%">
